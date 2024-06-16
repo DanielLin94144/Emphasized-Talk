@@ -1,2 +1,4 @@
 # Emphasized-Talk
-Official release of Emphasized-Talk
+The official release of Emphasized-Talk
+
+[More details coming soon]
